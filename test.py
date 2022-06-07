@@ -1,0 +1,102 @@
+import time
+
+import requests
+import cloudscraper
+from bs4 import BeautifulSoup
+import json
+import pandas as pd
+import os
+import selenium
+from selenium.webdriver.support.ui import WebDriverWait, Select
+from selenium.webdriver.support import expected_conditions as EC
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import NoSuchElementException
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+import undetected_chromedriver as uc
+from selenium.webdriver.common.action_chains import ActionChains
+
+if __name__ == '__main__':
+    options = Options()
+    options.headless = True
+    options.add_argument("start-maximized")  # ensure window is full-screen
+    driver = uc.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    driver.get("https://9gag.com/gag/a5EAv9O")
+    title = driver.title[:-7]
+    try:
+        for i in range(1, 5):
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(4)
+        upvotes_count = driver.find_element(By.XPATH, "//meta[@property='og:description']").get_attribute("content").split(' ')[0]
+        comments_count = driver.find_element(By.XPATH, "//meta[@property='og:description']").get_attribute("content").split(' ')[3]
+        upvotes_count = int(upvotes_count) if len(upvotes_count) <= 3 else int("".join(upvotes_count.split(',')))
+        comments_count = int(comments_count) if len(comments_count) <= 3 else int("".join(comments_count.split(',')))
+        date_posted = driver.find_element(By.XPATH, "//p[@class='message']")
+        date_posted = date_posted.text.split("·")[1].strip()
+        driver.implicitly_wait(15)
+        actions = ActionChains(driver)
+        element = element = driver.find_element(By.XPATH, "//section[@class='comment-list comment_system__comment-list']")
+        actions.move_to_element(element).click(on_element=element).perform()
+        print(element.text)
+    except NoSuchElementException or Exception as err:
+        print(err)
+
+
+#
+# def getUrl():
+#     html = requests.get('https://9gag.com/')
+#     if html.status_code == 200:
+#         soup = BeautifulSoup(html.text, 'html.parser')
+#     else:
+#         print("Unable to fetch page. Status Code:", html.status_code)
+#         return
+#     div = soup.find(type='application/ld+json')
+#     json_obj = json.loads(div.text.strip())
+#     url_list = json_obj['itemListElement']
+#     memes = []
+#     for data in url_list:
+#         memes.append(data['url'])
+#     return memes
+#
+#
+# def getMemeData(memes):
+#     data = []
+#     for url in memes:
+#         scraper = cloudscraper.create_scraper()
+#         html = scraper.get(url)
+#         if html.status_code == 200:
+#             soup = BeautifulSoup(html.content, 'html.parser')
+#         else:
+#             print("Unable to fetch page. Status Code:", html.status_code)
+#         title = soup.find('title').text[:-7]
+#         votes = soup.find('meta', property='og:description')['content'].split(' ')[0]
+#         comments = soup.find('meta', property='og:description')['content'].split(' ')[3]
+#         #print(votes, comments)
+#         #votes = int(votes) if len(votes) <= 3 else int("".join(votes.split(',')))
+#         #comments = int(comments) if len(comments) <= 3 else int("".join(votes.split(',')))
+#         data.append([url, title, votes, comments])
+#     meme_data = pd.DataFrame(data, columns=['Meme_URL', 'Title', 'UpVotes', 'Comments'])
+#     if os.path.exists("Memes.csv"):
+#         csv_data = pd.read_csv("Memes.csv")
+#         csv_urls = csv_data['Meme_URL'].tolist()
+#         for i in range(0, len(csv_urls)):
+#             for j in range(0, len(meme_data)):
+#                 if csv_urls[i] == memes[j]:
+#                     # print(memes[i], csv_urls[j])
+#                     # print(meme_data.iloc[i]['Title'], "||||", csv_data.iloc[j]['Title'])
+#                     csv_data.iloc[i] = meme_data.iloc[j]
+#                     meme_data = meme_data.drop(meme_data.index[[j]])
+#                     meme_data = meme_data.reset_index(drop=True)
+#                     break
+#         csv_data = pd.concat([csv_data, meme_data])
+#         csv_data.to_csv("Memes.csv", index=False, header=True)
+#     else:
+#         meme_data.to_csv("Memes.csv", index=False, header=True)
+#
+#
+# if __name__ == "__main__":
+#     memes = getUrl()
+#     #print(memes)
+#     getMemeData(memes)
