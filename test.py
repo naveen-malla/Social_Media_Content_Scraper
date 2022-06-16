@@ -18,6 +18,26 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 import undetected_chromedriver as uc
 
+def scroll_page():
+    prev_h = 0
+    for i in range(30):
+        height = driver.execute_script("""
+                       function getActualHeight() {
+                           return Math.max(
+                               Math.max(document.body.scrollHeight, document.documentElement.scrollHeight),
+                               Math.max(document.body.offsetHeight, document.documentElement.offsetHeight),
+                               Math.max(document.body.clientHeight, document.documentElement.clientHeight)
+                           );
+                       }
+                       return getActualHeight();
+                   """)
+        driver.execute_script(f"window.scrollTo({prev_h},{prev_h + 200})")
+        time.sleep(1)
+        prev_h += 200
+        if prev_h >= height:
+            break
+
+
 if __name__ == '__main__':
 
     options = Options()
@@ -25,23 +45,7 @@ if __name__ == '__main__':
     driver = uc.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     driver.maximize_window()
     driver.get("https://9gag.com/gag/a5EAv9O")
-    prev_h = 0
-    for i in range(30):
-        height = driver.execute_script("""
-                   function getActualHeight() {
-                       return Math.max(
-                           Math.max(document.body.scrollHeight, document.documentElement.scrollHeight),
-                           Math.max(document.body.offsetHeight, document.documentElement.offsetHeight),
-                           Math.max(document.body.clientHeight, document.documentElement.clientHeight)
-                       );
-                   }
-                   return getActualHeight();
-               """)
-        driver.execute_script(f"window.scrollTo({prev_h},{prev_h + 200})")
-        time.sleep(1)
-        prev_h += 200
-        if prev_h >= height:
-            break
+    scroll_page()
     time.sleep(5)
     title = driver.title[:-7]
     try:
@@ -52,18 +56,19 @@ if __name__ == '__main__':
         date_posted = driver.find_element(By.XPATH, "//p[@class='message']")
         date_posted = date_posted.text.split("·")[1].strip()
         actions = ActionChains(driver)
-        link = driver.find_element(By.XPATH, "//button[@class='comment-list__load-more']")
-        actions.move_to_element(link).click(on_element=link).perform()
-
-        # WebDriverWait(driver, 20).until(
-        #     EC.element_to_be_clickable((By.CSS_SELECTOR, "button.comment-list__load-more"))).click()
+        load_more_comments = driver.find_element(By.XPATH, "//button[@class='comment-list__load-more']")
+        actions.move_to_element(load_more_comments).click(on_element=load_more_comments).perform()
         print([my_elem.text for my_elem in driver.find_elements(By.CSS_SELECTOR, "div.comment-list-item__text")])
-        #driver.implicitly_wait(15)
-
-        # element = driver.find_element(By.XPATH,
-        #                               "//div[@class='vue-recycle-scroller ready page-mode direction-vertical']")
-        #
+        # WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "button.comment-list__load-more"))).click()
+        # driver.implicitly_wait(15)
+        # element = driver.find_element(By.XPATH, "//div[@class='vue-recycle-scroller ready page-mode direction-vertical']")
         # print(element.text)
+        scroll_page()
+        comments = driver.find_elements(By.CSS_SELECTOR, "div.vue-recycle-scroller__item-view")
+        for item in comments:
+            #print(item.find_element(By.CSS_SELECTOR, "div.comment-list-item__text"))
+            print(item.text)
+
         driver.quit()
     except NoSuchElementException or ElementClickInterceptedException or Exception as err:
         print(err)
