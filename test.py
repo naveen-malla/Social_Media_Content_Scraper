@@ -12,7 +12,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -51,11 +51,12 @@ if __name__ == '__main__':
         comments_count = int(comments_count) if len(comments_count) <= 3 else int("".join(comments_count.split(',')))
         date_posted = driver.find_element(By.XPATH, "//p[@class='message']")
         date_posted = date_posted.text.split("·")[1].strip()
-        # actions = ActionChains(driver)
-        # link = driver.find_element(By.XPATH, "//button[@class='comment-list__load-more']")
-        # actions.move_to_element(link).click(on_element=link).perform()
-        WebDriverWait(driver, 20).until(
-            EC.element_to_be_clickable((By.CSS_SELECTOR, "button.comment-list__load-more"))).click()
+        actions = ActionChains(driver)
+        link = driver.find_element(By.XPATH, "//button[@class='comment-list__load-more']")
+        actions.move_to_element(link).click(on_element=link).perform()
+
+        # WebDriverWait(driver, 20).until(
+        #     EC.element_to_be_clickable((By.CSS_SELECTOR, "button.comment-list__load-more"))).click()
         print([my_elem.text for my_elem in driver.find_elements(By.CSS_SELECTOR, "div.comment-list-item__text")])
         #driver.implicitly_wait(15)
 
@@ -64,7 +65,7 @@ if __name__ == '__main__':
         #
         # print(element.text)
         driver.quit()
-    except NoSuchElementException or Exception as err:
+    except NoSuchElementException or ElementClickInterceptedException or Exception as err:
         print(err)
 
 #
