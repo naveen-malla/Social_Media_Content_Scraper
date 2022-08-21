@@ -1,6 +1,7 @@
 import requests
 import pandas as pd
-from save_attachments import save_media
+
+pd.options.mode.chained_assignment = None  # default='warn'
 
 def save_comments(post):
     comments1 = post + "_comments.csv"
@@ -13,7 +14,7 @@ def save_comments(post):
     df.rename(columns={'commentId': 'parent'}, inplace=True)
     df['timestamp'] = pd.to_datetime(df['timestamp'], unit='s')
     df.to_csv(comments1, mode='w', index=False)
-    print(comments1, "_saved", '\n')
+    print(comments1, "saved")
 
     if data['payload']['next'] is not None:
         nextpage = data['payload']['next']
@@ -25,11 +26,9 @@ def save_comments(post):
             dfn.rename(columns={'commentId': 'parent'}, inplace=True)
             dfn['timestamp'] = pd.to_datetime(df['timestamp'], unit='s')
             dfn.to_csv(comments1, mode='a', index=False)
-            print(comments1, "_saving", end="\r", )
+            print(comments1, "saving", end="\r", )
 
             if (data2['payload']['next']) is None:
-                print('\n', 'end of comments', '\n')
-                print('file saved')
                 break
             nextpage = data2['payload']['next']
 
@@ -45,9 +44,6 @@ def save_comments(post):
     df1 = pd.DataFrame(replies)
     df1['timestamp'] = pd.to_datetime(df['timestamp'], unit='s')
     df1.to_csv(replies1, index=False)
-    print("\n\n", replies1 + "_saved")
-    #
+    print("\n" + replies1 + " saved")
     return comments1, replies1
-    # save_media(post, comments1)
-    # save_media(post, replies1)
 
