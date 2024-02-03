@@ -1,0 +1,21 @@
+[2022-12-04 18:04:37,091] [INFO]: INITIALIZING URS.
+[2022-12-04 18:04:37,091] [INFO]: 
+[2022-12-04 18:04:38,417] [INFO]: RATE LIMIT DISPLAYED.
+[2022-12-04 18:04:38,417] [INFO]: Remaining requests: 593.0
+[2022-12-04 18:04:38,417] [INFO]: Used requests: 7
+[2022-12-04 18:04:38,417] [INFO]: 
+[2022-12-04 18:04:38,418] [INFO]: Successfully logged in as u/itsvoldemort.
+[2022-12-04 18:04:38,418] [INFO]: 
+[2022-12-04 18:04:38,418] [INFO]: RUNNING COMMENTS SCRAPER.
+[2022-12-04 18:04:38,418] [INFO]: 
+[2022-12-04 18:04:38,419] [INFO]: Validating submission(s)...
+[2022-12-04 18:04:38,419] [INFO]: 
+[2022-12-04 18:04:40,099] [INFO]: Exporting all comments in structured format.
+[2022-12-04 18:04:40,107] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/blender/comments/zcab2k/how_can_i_make_the_scene_more_interesting/...
+[2022-12-04 18:04:40,107] [INFO]: 
+[2022-12-04 18:04:40,107] [INFO]: COMMENTS SCRAPER FINISHED IN 1.69 SECONDS.
+[2022-12-04 18:04:40,107] [INFO]: 
+[2022-12-04 18:04:40,107] [INFO]: Exporting to JSON.
+[2022-12-04 18:04:40,108] [INFO]: 
+[2022-12-04 18:04:40,108] [INFO]: URS COMPLETED IN 3.02 SECONDS.
+

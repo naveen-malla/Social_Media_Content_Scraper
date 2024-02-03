@@ -1,0 +1,62 @@
+[2022-12-07 16:34:48,170] [INFO]: INITIALIZING URS.
+[2022-12-07 16:34:48,170] [INFO]: 
+[2022-12-07 16:34:49,374] [INFO]: RATE LIMIT DISPLAYED.
+[2022-12-07 16:34:49,374] [INFO]: Remaining requests: 598.0
+[2022-12-07 16:34:49,374] [INFO]: Used requests: 2
+[2022-12-07 16:34:49,374] [INFO]: 
+[2022-12-07 16:34:49,375] [INFO]: Successfully logged in as u/itsvoldemort.
+[2022-12-07 16:34:49,375] [INFO]: 
+[2022-12-07 16:34:49,375] [INFO]: RUNNING COMMENTS SCRAPER.
+[2022-12-07 16:34:49,375] [INFO]: 
+[2022-12-07 16:34:49,377] [INFO]: Validating submission(s)...
+[2022-12-07 16:34:49,377] [INFO]: 
+[2022-12-07 16:34:54,834] [INFO]: Exporting all comments in structured format.
+[2022-12-07 16:34:54,843] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/blender/comments/zcab2k/how_can_i_make_the_scene_more_interesting/...
+[2022-12-07 16:34:54,843] [INFO]: 
+[2022-12-07 16:34:54,843] [INFO]: COMMENTS SCRAPER FINISHED IN 5.47 SECONDS.
+[2022-12-07 16:34:54,843] [INFO]: 
+[2022-12-07 16:34:54,843] [INFO]: Exporting to JSON.
+[2022-12-07 16:34:54,843] [INFO]: 
+[2022-12-07 16:34:54,843] [INFO]: URS COMPLETED IN 6.67 SECONDS.
+
+[2022-12-07 16:39:37,525] [INFO]: INITIALIZING URS.
+[2022-12-07 16:39:37,527] [INFO]: 
+[2022-12-07 16:39:38,619] [INFO]: RATE LIMIT DISPLAYED.
+[2022-12-07 16:39:38,619] [INFO]: Remaining requests: 496.0
+[2022-12-07 16:39:38,619] [INFO]: Used requests: 104
+[2022-12-07 16:39:38,620] [INFO]: 
+[2022-12-07 16:39:38,620] [INFO]: Successfully logged in as u/itsvoldemort.
+[2022-12-07 16:39:38,621] [INFO]: 
+[2022-12-07 16:39:38,621] [INFO]: RUNNING COMMENTS SCRAPER.
+[2022-12-07 16:39:38,621] [INFO]: 
+[2022-12-07 16:39:38,621] [INFO]: Validating submission(s)...
+[2022-12-07 16:39:38,622] [INFO]: 
+[2022-12-07 16:40:46,338] [INFO]: Exporting all comments in structured format.
+[2022-12-07 16:40:46,375] [INFO]: Processing all comments from Reddit post https://www.reddit.com/r/wallstreetbets/comments/zejbbo/waiting_for_all_of_two_seconds/...
+[2022-12-07 16:40:46,375] [INFO]: 
+[2022-12-07 16:40:46,375] [INFO]: COMMENTS SCRAPER FINISHED IN 67.75 SECONDS.
+[2022-12-07 16:40:46,375] [INFO]: 
+[2022-12-07 16:40:46,380] [INFO]: Exporting to JSON.
+[2022-12-07 16:40:46,380] [INFO]: 
+[2022-12-07 16:40:46,391] [INFO]: URS COMPLETED IN 68.86 SECONDS.
+
+[2022-12-07 16:53:11,902] [INFO]: INITIALIZING URS.
+[2022-12-07 16:53:11,902] [INFO]: 
+[2022-12-07 16:53:12,814] [INFO]: RATE LIMIT DISPLAYED.
+[2022-12-07 16:53:12,815] [INFO]: Remaining requests: 527.0
+[2022-12-07 16:53:12,815] [INFO]: Used requests: 73
+[2022-12-07 16:53:12,815] [INFO]: 
+[2022-12-07 16:53:12,815] [INFO]: Successfully logged in as u/itsvoldemort.
+[2022-12-07 16:53:12,815] [INFO]: 
+[2022-12-07 16:53:12,816] [INFO]: RUNNING COMMENTS SCRAPER.
+[2022-12-07 16:53:12,816] [INFO]: 
+[2022-12-07 16:53:12,816] [INFO]: Validating submission(s)...
+[2022-12-07 16:53:12,817] [INFO]: 
+[2022-12-07 17:07:06,296] [WARNING]: Retrying due to 503 status: POST https://oauth.reddit.com/api/morechildren/
+[2022-12-07 17:44:05,993] [WARNING]: Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)")) status: POST https://oauth.reddit.com/api/morechildren/
+[2022-12-07 17:46:57,326] [WARNING]: Retrying due to ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Read timed out. (read timeout=16.0)")) status: POST https://oauth.reddit.com/api/morechildren/
+[2022-12-07 17:46:57,963] [WARNING]: Retrying due to ConnectionError(MaxRetryError("HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /api/morechildren/?raw_json=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x169d25970>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))")) status: POST https://oauth.reddit.com/api/morechildren/
+[2022-12-07 17:47:00,574] [CRITICAL]: AN ERROR HAS OCCURRED WHILE EXPORTING SCRAPED DATA.
+[2022-12-07 17:47:00,575] [CRITICAL]: error with request HTTPSConnectionPool(host='oauth.reddit.com', port=443): Max retries exceeded with url: /api/morechildren/?raw_json=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x169d2e0d0>: Failed to establish a new connection: [Errno 8] nodename nor servname provided, or not known'))
+[2022-12-07 17:47:00,575] [CRITICAL]: ABORTING URS.
+
