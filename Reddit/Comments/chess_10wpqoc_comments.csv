@@ -1,0 +1,288 @@
+Author,Body,Created Time,Id,Parent_id,Permalink,Score,Sentiment
+chessvision-ai-bot,"I analyzed the image and this is what I see. Open an appropriate link below and explore the position yourself or with the engine:
+
+> **Black to play**: [chess.com](https://chess.com/analysis?fen=7k/p5pp/8/1pp1Pq1P/1b3P2/P2rP1Q1/KP6/3R3R+b+-+-+0+1&flip=true&ref_id=23962172) | [lichess.org](https://lichess.org/analysis/7k/p5pp/8/1pp1Pq1P/1b3P2/P2rP1Q1/KP6/3R3R_b_-_-_0_1)
+
+**My solution:**
+
+> Hints: piece: >!Rook!<, move: >!Rxa3+!<
+
+> Evaluation: >!Black has mate in 3!<
+
+> Best continuation: >!1... Rxa3+ 2. bxa3 Qc2+ 3. Ka1 Bc3#!<
+
+---
+
+^(I'm a bot written by ) [^(u/pkacprzak )](https://www.reddit.com/u/pkacprzak) ^(| get me as ) [^(Chess eBook Reader )](https://ebook.chessvision.ai?utm_source=reddit&utm_medium=bot) ^(|) [^(Chrome Extension )](https://chrome.google.com/webstore/detail/chessvisionai-for-chrome/johejpedmdkeiffkdaodgoipdjodhlld) ^(|) [^(iOS App )](https://apps.apple.com/us/app/id1574933453) ^(|) [^(Android App )](https://play.google.com/store/apps/details?id=ai.chessvision.scanner) ^(to scan and analyze positions | Website: ) [^(Chessvision.ai)](https://chessvision.ai)",2023-02-08 06:45:08,j7oflql,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7oflql/,1,Positive
+CSGB13,Took about 30 seconds once you see the forcing moves. Easier when you know it’s a puzzle of course 😁,2023-02-08 06:58:09,j7ogo2u,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ogo2u/,167,Neutral
+CoAnalyticSet,"I saw the solution immediately, but then I spent some time thinking about what happens if white doesn't take the rook, before realizing I'm an idiot",2023-02-08 07:07:06,j7ohdvz,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ohdvz/,322,Negative
+yabbadabbadoo693,"Took me about 30 seconds to not find it, then look at the comments for the solution",2023-02-08 07:47:01,j7okfhy,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7okfhy/,56,Neutral
+g_spaitz,"I'm about 1600 lichess and about 2300 in puzzles, knowing it's a puzzle, I considered the rook sac right away and then saw the continuation. So more or less immediately. If it was in a game it would have been harder.",2023-02-08 08:24:23,j7on5lp,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7on5lp/,57,Positive
+giants4210,About 10-15 seconds,2023-02-08 08:06:15,j7olugo,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7olugo/,27,Neutral
+AlisherUsmanov,Legitimately Took less than 5 seconds. First check I saw was the rook sac and then looked for the follow up with the queen. and knew mate couldn’t be stopped.,2023-02-08 07:19:23,j7oic65,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7oic65/,74,Positive
+NotNitsua,"5-10 seconds, i first calculated Qe6+",2023-02-08 16:46:37,j7q3s7a,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q3s7a/,13,Positive
+polo2327,It is always easier when you know there is a solution,2023-02-08 17:36:25,j7qbjsz,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qbjsz/,9,Neutral
+JustALittleOrigin,3 seconds,2023-02-08 07:49:56,j7okncs,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7okncs/,14,Neutral
+lookingforfunlondon,"Rxa3+ bxa3, Qc2+ Ka1, Bc3#",2023-02-08 06:47:16,j7ofs2h,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ofs2h/,5,Neutral
+tabbian,"Set a timer and was sure after 45 seconds. Might be faster when its not the first puzzle of the day. Checked the queen checks first. After I realised there is nothing coming from them, I looked for other candidate moves and then I saw the rook check. Once you see that move, it is obvious. But I'm not sure I would see that move in 100% of my blitz games.",2023-02-08 07:48:31,j7okji9,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7okji9/,7,Positive
+ChanceWarden,and then he sacrificed.....,2023-02-08 12:57:39,j7p8dzc,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7p8dzc/,6,Neutral
+larsaso,I saw it in 0.5 seconds,2023-02-08 10:15:51,j7ousgq,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ousgq/,4,Neutral
+UnDebs,THE R O O O O O O K,2023-02-08 18:39:10,j7qle36,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qle36/,5,Neutral
+nestorsanchez3d,"2 seconds, I play bullet only.",2023-02-08 14:58:55,j7pnovd,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pnovd/,3,Neutral
+ThaGodPrizzy,THE ROOOOOOOOOKKKKK,2023-02-08 18:51:15,j7qnb7s,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qnb7s/,3,Neutral
+Wyverstein,"Docking computer. (From kings crusher)
+
+Always look at all checks until the forcing moves are done. Even if the checks are dumb looking.
+
+So instantly.",2023-02-08 14:54:59,j7pn509,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pn509/,2,Negative
+dampew,There's only one forcing move...,2023-02-08 15:24:17,j7prc4f,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7prc4f/,2,Neutral
+onlii,"Quite fast.
+Always look for 
+
+
+* check
+* attack
+* combination
+* initiative",2023-02-08 21:39:34,j7redc9,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7redc9/,2,Positive
+purefan,Less than 6700 seconds,2023-02-08 22:12:41,j7rjmic,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rjmic/,2,Negative
+RapidBestJujuReforge,2 seconds,2023-02-08 11:54:53,j7p2c1n,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7p2c1n/,3,Neutral
+Immediate_Star8992,3 seconds.,2023-02-08 16:59:32,j7q5sjk,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q5sjk/,1,Neutral
+Moisty_wings,10 seconds,2023-02-10 00:05:11,j7wyrwx,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7wyrwx/,1,Neutral
+Mysterious_Frame_897,About eight seconds.,2023-02-08 08:15:02,j7omha9,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7omha9/,1,Neutral
+Bleaks33,"Saw winning sequence in 5 seconds, calculated exact line in 10. 2100 puzzle rating lichess, 1900 rapid 1800 blitz 1800 bullet.",2023-02-08 09:44:10,j7osmum,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7osmum/,0,Positive
+zeoiusidal_toe,Like 3s,2023-02-08 12:06:41,j7p3d74,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7p3d74/,0,Neutral
+upliftorr,Rxa3+ was pretty quick,2023-02-08 07:45:04,j7okaah,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7okaah/,1,Positive
+Halvbjorn,"8-10 seconds. I'm lichess 2100, chess com 2000, CFC  1830",2023-02-08 08:21:42,j7omyp1,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7omyp1/,1,Neutral
+Itankarenas,10-15 seconds. I’m 1900-2100 in puzzles on Lichess if you’re trying to gauge something from this,2023-02-08 11:30:23,j7p096m,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7p096m/,1,Neutral
+fingerbangchicknwang,Saw Ra3 Qc2 combo Almost instantly (couple seconds),2023-02-08 11:31:14,j7p0blc,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7p0blc/,1,Neutral
+AbleBaker1962,"Saw the initial move in about 5-10 seconds, then it took me another 30 seconds to finish it and verify.
+
+Call it a minute overall to completely work it out.",2023-02-08 12:01:50,j7p2xwb,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7p2xwb/,1,Positive
+jesuschristthe3rd,10s,2023-02-08 12:16:49,j7p49q5,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7p49q5/,1,Neutral
+Party_Ad_4389,"3-5 seconds.
+
+I'm unranked, only play some puzzles and bots. 
+
+After Rook takes Rook makes no sense check was the idea and the only check works.
+
+In a real game I wouldn't see it, for sure.",2023-02-08 12:46:13,j7p7635,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7p7635/,1,Negative
+moonkin1,I am proud of myself because this was so easy to solve. I can call myself intermediate,2023-02-08 13:46:04,j7pdygb,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pdygb/,1,Positive
+Inner_Impress_6777,Pretty quick. Eyes immediately looked to the rook sac to clear the path for the queen to check and it follows pretty simply from there,2023-02-08 14:34:46,j7pkbhn,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pkbhn/,1,Positive
+VacationCapable7874,5-8 sec,2023-02-08 14:34:46,j7pkbhs,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pkbhs/,1,Negative
+__Jimmy__,~2s,2023-02-08 15:12:47,j7ppnwt,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ppnwt/,1,Neutral
+idontgiveadam70958,"Takes+ takes, queen goes there+ king goes here, bishop delivers mate#",2023-02-08 15:24:46,j7premt,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7premt/,1,Neutral
+MrBultitude96,About five seconds,2023-02-08 15:25:24,j7prhxb,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7prhxb/,1,Neutral
+DrugChemistry,My kneejerk guess was Qe6+. Figured out pretty quickly that didnt work so then I looked at the rook.,2023-02-08 15:31:48,j7psfhx,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7psfhx/,1,Positive
+BeholdSnomsFury,"I saw it immediately, damn I should go outside.",2023-02-08 15:33:41,j7pspa3,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pspa3/,1,Neutral
+jshooa,Took me 5 seconds to find.,2023-02-08 15:35:23,j7psy6z,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7psy6z/,1,Neutral
+sacdecorsair,"The thing about puzzles is you look for sac or immediate checks.  They you got big tuff guy and mate the puzzle.
+
+In a real game its a whole different story.  Besides obvious sac like discovered attacks, getting that sac mindset as a low level is a recipe for disaster. (as beginners).
+
+Well, that puzzle took me like 15 seconds to validate the initial idea of rook check was working.",2023-02-08 15:36:56,j7pt689,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pt689/,1,Negative
+austinberries,3 moves and about 20 seconds of questioning if it could really be that easy,2023-02-08 15:49:39,j7pv21y,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pv21y/,1,Positive
+Opsuty,I saw RxA3 immediately (supported way to check the king) -- checked it was a mate and felt good -- but didn't see b2xa3 at all until reading the comments lol.,2023-02-08 15:50:03,j7pv468,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pv468/,1,Positive
+Dezdenova,"""But that's so easy""
+
+I say as I struggle with a mate in 1 500 Elo rated puzzle.",2023-02-08 15:59:00,j7pwh85,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pwh85/,1,Positive
+Accomplished-Buy-504,"Rook, Queen, Bishop. First two moves were instant, the last took me 2 sec because I had to double check.",2023-02-08 16:02:31,j7px08u,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7px08u/,1,Positive
+Maroczy-Bind,I did not time it but my guess would be about 8 sec maybe 10 max,2023-02-08 16:06:16,j7pxkos,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pxkos/,1,Negative
+ruarq_,30s,2023-02-08 16:13:58,j7pyr3j,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pyr3j/,1,Neutral
+No_Entrepreneur5793,"Sac the rook on a3, pawn takes, queen goes to c2, king can only go a1, mate with bishop on c 3",2023-02-08 16:21:50,j7pzy76,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pzy76/,1,Neutral
+GyroLikesMozzarella,THE ROOOOOOOK,2023-02-08 16:23:18,j7q06io,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q06io/,1,Neutral
+yopto,5 secs?,2023-02-08 16:23:21,j7q06s1,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q06s1/,1,Neutral
+83829573,I saw the solution before my eyes had even scanned the entire board.,2023-02-08 16:32:09,j7q1jcq,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q1jcq/,1,Neutral
+refracture,"Knowing that it's a puzzle, like 10 seconds since the first thing you look for is checks and potential follow ups. Would I find this in a real game? Probably not, but depends on the time control.",2023-02-08 16:34:19,j7q1v6a,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q1v6a/,1,Negative
+Weekly_Bathroom_101,"About instantly to see the first 4 ply.
+
+Then another 30 seconds to see the mate.
+
+Which is about typical for a puzzle of this rating for me.",2023-02-08 16:42:39,j7q35xm,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q35xm/,1,Positive
+kair246,"Saw it literally instantly, please don't take this as a flex",2023-02-08 16:48:20,j7q41ks,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q41ks/,1,Neutral
+Fit-Examination9669,Instantly,2023-02-08 16:58:42,j7q5ntw,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q5ntw/,1,Neutral
+Alarming-Fly-1679,"Maybe 5-10 seconds. I probably wouldn't find it in a blitz game or something, however. As soon as you're primed for a tactic it is easy to find it, even if it's sort inconspicuous like this one.",2023-02-08 17:00:01,j7q5v7a,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q5v7a/,1,Positive
+DopazOnYouTubeDotCom,20-30 seconds. I’d never see it in a real game though.,2023-02-08 17:01:35,j7q63sp,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q63sp/,1,Negative
+TheMolished,"took me 15 seconds, am 700 rated so this was a massive ego boost",2023-02-08 17:05:22,j7q6orc,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q6orc/,1,Neutral
+sleepingfox307,"Recognized it right away because puzzle, but I guarantee if this were an actual game I would never have spotted it lol",2023-02-08 17:07:52,j7q72u2,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q72u2/,1,Positive
+Rian_Lihka,"1700 on chesscom rapid, took 10 secs",2023-02-08 17:15:30,j7q89y5,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q89y5/,1,Neutral
+mgnfngglss,there's only one check available and it leads to the solution. 3 secs,2023-02-08 17:18:11,j7q8oyh,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q8oyh/,1,Positive
+TuhTuhTool,Less than 5 seconds,2023-02-08 17:19:16,j7q8uz9,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q8uz9/,1,Negative
+jedzz-reddit,"Half a second to see the first move, then two or three seconds to see the line, then five seconds to verify it is forcing.",2023-02-08 17:20:07,j7q8zpt,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q8zpt/,1,Positive
+nickoskal024,One minute,2023-02-08 17:21:57,j7q9a3v,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q9a3v/,1,Neutral
+Seasplash,I'm around 2500 puzzles on chess dot com. Took me about 7 seconds.,2023-02-08 17:29:41,j7qahp2,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qahp2/,1,Neutral
+obchessed,Took me about 5 secs or so. Yesterdays 1922 rated daily puzzle was very challenging! Mtly puzzle rating is 2300 and i had it wrong,2023-02-08 17:32:35,j7qay38,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qay38/,1,Positive
+Cautious_Monk_6748,"Right away. The rook sack was the only obvious puzzle move.
+
+99% sure I would have missed it in a real game. Even if I saw it, unless I have a full minute to triple check I wasn't just blundering a rook, I would be too scared to sack my rook just in case. I would not play it.",2023-02-08 17:51:36,j7qdy2x,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qdy2x/,1,Positive
+Ta5823,like 3 seconds,2023-02-08 18:01:07,j7qfgev,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qfgev/,1,Neutral
+doctor_awful,Like five seconds but my first instincts are to sack everything anyways,2023-02-08 18:03:45,j7qfvbg,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qfvbg/,1,Positive
+AdagioExtra1332,"5 seconds. Look for checks, captures and attacks. If you see the King in a corner and spot the Rook sacrifice, a lot of the moves are forced and do not require much calculation.",2023-02-08 18:06:42,j7qgc0i,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qgc0i/,1,Negative
+Replicadoe,"1 second 🙂
+
+clearly i play too much puzzle rush",2023-02-08 18:07:41,j7qghpi,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qghpi/,1,Positive
+TheRealFran,~10 seconds,2023-02-08 18:14:11,j7qhi70,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qhi70/,1,Neutral
+FullRectalProlapse,"It's the most forcing move on the board, three times in a row, so I got this one pretty instantly.",2023-02-08 18:18:30,j7qi6be,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qi6be/,1,Positive
+Cndiscnchess,M3 about 7 seconds.,2023-02-08 18:25:41,j7qjawt,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qjawt/,1,Neutral
+Mad4LooseChange,Like 5 seconds because my guess for the first move was right,2023-02-08 18:34:32,j7qknwc,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qknwc/,1,Positive
+ChessBorg,about 2 seconds.,2023-02-08 18:34:37,j7qkoaw,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qkoaw/,1,Neutral
+Mad4LooseChange,Like 5 seconds because my guess for the first move was right,2023-02-08 18:34:43,j7qkovm,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qkovm/,1,Positive
+Buckeye_CFB,"I saw the move almost instantly, because it's a puzzle, but it took me a good 20-30 seconds to make sure of the continuation
+
+Would I consider it in a game...that's another story",2023-02-08 18:36:58,j7ql1kv,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ql1kv/,1,Positive
+AnnihilationOrchid,I took about 10 seconds. You sure it's 1577?,2023-02-08 18:39:45,j7qlhhw,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qlhhw/,1,Positive
+xxxHalny,Exactly 10 seconds (measured). I am 1650 in lichess rapid.,2023-02-08 18:39:59,j7qlitc,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qlitc/,1,Positive
+IMJorose,"I am pretty sure I solved it before my brain was able to fully process the position of some of the pieces.
+
+Strong players are trained to look at forcing moves and the solution is the only series of checks that don't move backwards.
+
+What I find interesting is that I am pretty sure there are 1500 level problems I would need longer to solve than a player for whom that level problem is more appropriate.",2023-02-08 18:41:02,j7qlosm,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qlosm/,1,Positive
+Prinz_,"High 1300 Lichess, 1800 puzzles, considered rook sac in about 10s, but knowing it's a puzzle helps quite a bit.
+
+More importantly I think is that I didn't see the mate instantly, only saw rxa6+ bxa6 qc2+, I didn't instantly see ka8 bc3#, which is why I wouldn't see this in a normal game, probably",2023-02-08 18:46:47,j7qmlcv,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qmlcv/,1,Positive
+TomSatan,"About 3 seconds, I'm 2900 peak puzzles chess.c*m",2023-02-08 18:51:16,j7qnba1,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qnba1/,1,Neutral
+Bronk33,3 seconds,2023-02-08 18:54:21,j7qnt1g,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qnt1g/,1,Neutral
+I_am_the_Apocalypse,In about 5 seconds,2023-02-08 18:54:33,j7qnu5v,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qnu5v/,1,Neutral
+Byrnes88,Less then 30 seconds,2023-02-08 18:54:52,j7qnw10,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qnw10/,1,Negative
+oaktubs,"Like super fast, which is kinda depressing because I'd rarely find it in a game, and certainly not under bullet pressure, but as a puzzle? Almost instantly",2023-02-08 18:56:45,j7qo71x,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qo71x/,1,Negative
+Accurate_Door_6911,"I saw this pretty much near instantly, idk if I’d find it in a blitz game, but the idea seems rather obvious to me right here, as it is the most forcing move and you don’t really have anything else to go for.",2023-02-08 19:00:37,j7qot85,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qot85/,1,Positive
+isatonyourmomsface,THE ROOK,2023-02-08 19:10:41,j7qqemf,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qqemf/,1,Neutral
+ertychess,About 5 seconds,2023-02-08 19:12:30,j7qqou4,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qqou4/,1,Neutral
+Appropriate_Rub6970,"I ""felt"" Rxa3 instantly and within this same second it played it self out in front of my eyes. Cool moment. wow.",2023-02-08 19:14:07,j7qqxr5,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qqxr5/,1,Positive
+XdAcEYeti,Is Rook to A3 not checkmate?,2023-02-08 19:23:50,j7qsgi0,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qsgi0/,1,Neutral
+worldseriesbound,15 seconds. Took me some time to talk myself out of queen checks for some stupid reason.,2023-02-08 19:29:00,j7qt9gj,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qt9gj/,1,Negative
+bridgeandchess,1 sec,2023-02-08 19:32:07,j7qtqzy,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qtqzy/,1,Negative
+bridgeandchess,The important thing is if you have seen this theme before. Im sure I have.,2023-02-08 19:33:29,j7qtymq,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qtymq/,1,Positive
+randomreddituser7474,Instantly somehow but I’d never see it in a game,2023-02-08 19:56:27,j7qxlp9,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qxlp9/,1,Negative
+RVG990104,5-10 seconds,2023-02-08 19:57:21,j7qxqv1,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qxqv1/,1,Neutral
+Orbital_symbiote,I could beat you without eyes and arms,2023-02-08 19:58:14,j7qxvui,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qxvui/,1,Neutral
+logikll,Instantly. Something about the position reminded me of Tal v Klasup 1952 from The Life and Games of Mikhail Tal.,2023-02-08 20:10:24,j7qzteo,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qzteo/,1,Neutral
+_xBenji,It’s r/chess so there has to be a sacrifice so pretty quick,2023-02-08 20:19:12,j7r17t5,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7r17t5/,1,Positive
+BlurayVertex,Rxa3 almost immediately,2023-02-08 20:30:25,j7r31oa,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7r31oa/,1,Neutral
+Inevitable_Tower_141,"Like, 30 seconds",2023-02-08 20:39:06,j7r4fi7,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7r4fi7/,1,Neutral
+Queendunger,AND HE SACRIFICES… THE ROOOOOOK,2023-02-08 20:43:18,j7r53ot,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7r53ot/,1,Neutral
+Queendunger,AND HE SACRIFICES… THE ROOOOOOK,2023-02-08 20:43:44,j7r56a0,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7r56a0/,1,Neutral
+Odd_Refrigerator8076,"Rook takes A3 
+Queen C2
+Bishop C3 Checkmate",2023-02-08 20:46:37,j7r5n8m,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7r5n8m/,1,Neutral
+Significant_Hotel237,"Less than a minute, then a minute to confirm",2023-02-08 20:46:51,j7r5oma,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7r5oma/,1,Negative
+feh112,"it's a puzzle, you just look for forcing moves and thereafter",2023-02-08 20:50:56,j7r6d78,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7r6d78/,1,Neutral
+abhay_mishra07,"Rxa3+, bxa3, Qc2+, Ka1, Bc3#",2023-02-08 20:56:23,j7r79xs,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7r79xs/,1,Neutral
+carlsaischa,"In this puzzle? ~2-3 seconds.
+In a game? Ba5 or Rxd1.",2023-02-08 20:58:23,j7r7m8u,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7r7m8u/,1,Negative
+yaboy_jesse,"Approx. 10 seconds, might have missed it in an actual game though, depending on my time",2023-02-08 21:17:17,j7raprr,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7raprr/,1,Negative
+SeverePhilosopher1,2 secs,2023-02-08 21:27:18,j7rcd3y,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rcd3y/,1,Neutral
+h00pz,"2 seconds, maybe",2023-02-08 21:46:04,j7rff49,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rff49/,1,Neutral
+No-Seaworthiness5074,Less than 10 seconds,2023-02-08 21:54:33,j7rgsgo,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rgsgo/,1,Negative
+Alice_Ex,"Saw the idea immediately, took about 8 seconds to check for side lines.",2023-02-08 21:57:34,j7rh9ss,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rh9ss/,1,Neutral
+ConnorMooneyhan,"It's the first move I saw, but it took about 30 seconds to prove fully",2023-02-08 22:02:20,j7ri187,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ri187/,1,Positive
+wyseguy7,"Saw it immediately, even though I am not particularly good at chess.",2023-02-08 22:02:29,j7ri22d,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ri22d/,1,Negative
+dark_wishmaster,Less than 30 seconds,2023-02-08 22:12:50,j7rjn8u,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rjn8u/,1,Negative
+VoidedBlaze,1 second,2023-02-08 22:31:41,j7rmi24,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rmi24/,1,Neutral
+BeardoTheHero,"Knowing its a puzzle makes it extremely simple. Tbh, I have done enough of these types of puzzles that I think I would actually see this in the game pretty easily. That is, if I could get there before blundering half my pieces away",2023-02-08 22:46:18,j7ropcm,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ropcm/,1,Positive
+mackyd1,Like 2 seconds. Puzzles are designed to kinda have a sacrifice that leads to a win in a position like this.,2023-02-08 22:50:25,j7rpc82,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rpc82/,1,Positive
+JTGW012,About 6 seconds to see and confirm everything,2023-02-08 22:50:47,j7rpeca,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rpeca/,1,Neutral
+reagantrex,Like a min,2023-02-08 22:55:43,j7rq5zz,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rq5zz/,1,Neutral
+TRICKS_AND_V-GAMES,I’m 600 on chess and 1700 on puzzles saw it immediately lol,2023-02-08 23:09:20,j7rs7kt,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rs7kt/,1,Positive
+nicholasruunu,Less than 1 minute.,2023-02-08 23:30:19,j7rvagb,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rvagb/,1,Negative
+dwadmin,I'm rated about 1400 and got it down in about 20 seconds,2023-02-08 23:31:51,j7rvicz,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rvicz/,1,Negative
+bartoszjd,Near instant- first more considered works.,2023-02-08 23:37:00,j7rw93l,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rw93l/,1,Positive
+Relevant-Ad6242,2 sec,2023-02-08 23:38:06,j7rwet1,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rwet1/,1,Negative
+LordViperSD,“To not consider this would just be impossible in any situation” - WTF are you talking about? I can name 100+ scenarios where missing this is possible.,2023-02-08 23:43:39,j7rx7jq,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rx7jq/,1,Negative
+ThatChapThere,Around 20s,2023-02-08 23:43:58,j7rx97l,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rx97l/,1,Neutral
+ThatChapThere,Around 20s,2023-02-08 23:44:17,j7rxasy,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rxasy/,1,Neutral
+kaurib,Like 5 seconds including calculation. Qc2 is so clearly crushing,2023-02-09 00:08:35,j7s0r3e,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7s0r3e/,1,Positive
+HardKorAnalyzt,About two seconds.,2023-02-09 00:17:18,j7s1zim,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7s1zim/,1,Neutral
+kellio420,10 seconds,2023-02-09 00:23:09,j7s2th1,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7s2th1/,1,Neutral
+BehcoS,"Saw the rook move instantly because the Queen was blocked so it is quite intuitive as a positional player, but then calculated other things for like 30 seconds to be sure (around 2150 rapid lichess)",2023-02-09 01:31:14,j7sc3d7,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7sc3d7/,1,Positive
+pm_me_falcon_nudes,About 2 seconds. I'm ~2000 FIDE,2023-02-09 01:33:20,j7scdq0,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7scdq0/,1,Neutral
+BishopOverKnight,I found this instantly but only because of Carlsen - Karjakin 2016 lol,2023-02-09 01:44:00,j7sduse,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7sduse/,1,Positive
+ItsKnookinTime,took about 2 seconds,2023-02-09 02:26:40,j7sjmx3,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7sjmx3/,1,Neutral
+LewisMZ,I saw Rxa3 as a possibility within a few seconds but took about ten seconds to verify that it worked.,2023-02-09 02:29:13,j7sjz7r,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7sjz7r/,1,Negative
+Odd_Quit43,Is lschess puzzle in a puzzle tab? I am new to chess.,2023-02-09 02:34:07,j7skn87,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7skn87/,1,Positive
+DancinOnTheMoon,"Bout 4-5 seconds I saw THE ROOOOOK, and so in my mind I sacked THE ROOOOOKK.",2023-02-09 02:35:01,j7skrnz,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7skrnz/,1,Neutral
+Rob_Berger,"3 seconds, give or take.",2023-02-09 02:36:40,j7skzni,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7skzni/,1,Neutral
+KoolDude8675309,Took about 15 seconds.,2023-02-09 03:37:29,j7ssx6q,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ssx6q/,1,Neutral
+MedievalFightClub,About 12 seconds to solve the puzzle. Ten times that long and I *might* see it OTB.,2023-02-09 03:38:40,j7st2oj,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7st2oj/,1,Negative
+baconPandCakes,3 seconds,2023-02-09 03:51:15,j7suni4,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7suni4/,1,Neutral
+MysteriousDegree2423,1...Rxa3+ 2. bxa3 Qc2+ 3. Ka8 Bc3# 0-1,2023-02-09 03:54:20,j7sv189,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7sv189/,1,Neutral
+just_some_dude05,"It took my about 6 seconds.
+
+My puzzle rating is around 2300",2023-02-09 04:54:15,j7t1yjd,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7t1yjd/,1,Neutral
+turbokaivuri,Im 1400 rapid and 2600 in chess.com puzzles. I looked at the move immediatly so it took me about 3 seconds :D,2023-02-09 06:17:23,j7ta1q2,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ta1q2/,1,Positive
+SaboTheRevolutionary,"Knowing that this was a puzzle, the first thing I looked for was a piece sac, saw the rook sac and it's continuation so not very long",2023-02-09 06:32:56,j7tbhol,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7tbhol/,1,Positive
+patches3141,Found it instantly,2023-02-09 06:35:08,j7tbor8,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7tbor8/,1,Neutral
+oreosandgalaxies,3 seconds,2023-02-09 08:02:18,j7tiviw,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7tiviw/,1,Neutral
+thefinalzero,4 sec because i solving 2600 :D,2023-02-09 11:26:46,j7txmgf,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7txmgf/,1,Positive
+Zuzubolin,About 3 seconds,2023-02-09 14:55:21,j7ukuo3,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ukuo3/,1,Neutral
+chessvision--ai_bot,Rxa3+,2023-02-09 15:49:32,j7usvom,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7usvom/,1,Neutral
+n0xi3,"Less than 20 seconds, I immediately calculated Rxa3+, pretty much knowing its a puzzle made me look at this move over Qe6+.  When in doubt it I calculate the sac's first.",2023-02-09 16:23:27,j7uy3mz,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7uy3mz/,1,Positive
+K1ngOfSp4dez_,A minute.,2023-02-09 16:43:21,j7v17fu,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7v17fu/,1,Neutral
+Scrublets_RotMG,Saw it right away but I’m 2150 on lichess lol,2023-02-09 16:47:18,j7v1tox,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7v1tox/,1,Positive
+PlasmaTurtle21,"3 seconds to solve for me >!Rxa3, bxa3.  Qc2+, Ka1.  Bc1#!< took me longer to type this than to solve",2023-02-09 20:04:10,j7vxsti,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7vxsti/,1,Neutral
+PaulChess_Aficionado,Took me a fraction of a second followed by 30 seconds of second guessing,2023-02-09 22:08:20,j7whshf,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7whshf/,1,Neutral
+cuxz,"The first move I looked at was the correct move, easy mate",2023-02-10 00:18:08,j7x0kpj,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7x0kpj/,1,Positive
+teoeo,About half a second maybe? It’s literally the most forcing move each time.,2023-02-10 00:34:30,j7x2u72,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7x2u72/,1,Positive
+GentleCynicForNow,"2 seconds. I have over 2400 on lichess. PrinceDetritus. 
+
+It is pattern recognition.",2023-02-10 07:57:38,j7yf7zm,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7yf7zm/,1,Neutral
+ischolarmateU,"1s to see the first move and then , 9 s more to see the mate",2023-02-10 13:40:27,j7z7wlr,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7z7wlr/,1,Positive
+UnnamedPerson16,"About five seconds, my puzzles rating is about 2000. I'm good at solving checkmates compared to other tactics.",2023-02-11 00:34:22,j81w7aa,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j81w7aa/,1,Positive
+Hal-E-8-Us,About 4 seconds.,2023-02-11 18:24:16,j854owi,t3_10wpqoc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j854owi/,1,Neutral
+Holiday_Car_371,Oh I see it now,2023-02-08 23:26:47,j7rus2d,t1_j7oflql,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rus2d/,1,Neutral
+FiveDozenWhales,"This is my problem with puzzles. They don't really train you for actual chess games, because you *know* it's a puzzle and that a mate (or sometimes significant materiel gain) is possible. And that it will likely involve a sacrifice or other move you might not consider initially.",2023-02-08 21:24:57,j7rbz6f,t1_j7ogo2u,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rbz6f/,44,Positive
+SDG2008,I spent some time thinking: what if king takes...,2023-02-08 15:59:00,j7pwh63,t1_j7ohdvz,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pwh63/,57,Negative
+Thykk3r,Ya very easy puzzle. Like it though!,2023-02-08 17:25:56,j7q9wlc,t1_j7ohdvz,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q9wlc/,20,Positive
+Dr_Dressing,"This exact thing happened to me too.
+
+I was like ""But.. what if the king takes?"".... ""Wait...""",2023-02-08 15:59:38,j7pwkmj,t1_j7ohdvz,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pwkmj/,5,Positive
+mlmayo,I'm more interested in how black managed to get into that position with multiple hanging pieces.,2023-02-08 21:40:43,j7rek20,t1_j7ohdvz,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rek20/,2,Positive
+ItsMichaelRay,Same.,2023-02-08 21:57:53,j7rhbmf,t1_j7ohdvz,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rhbmf/,1,Neutral
+Bronk33,Really?,2023-02-08 18:54:49,j7qnvr1,t1_j7ohdvz,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qnvr1/,-2,Positive
+hulivar,lol same,2023-02-08 21:25:47,j7rc432,t1_j7ohdvz,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rc432/,1,Positive
+111v1111,"That’s ok, I was looking at the continuation when white takes bishop with his queen, than after 2 minutes realized there is a pawn in between the queen and bishop",2023-02-09 03:21:01,j7sqtzz,t1_j7ohdvz,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7sqtzz/,1,Positive
+ThatSeemsABitMuch,I don't remember leaving a comment on someone else's account but this is exactly what I did / do,2023-02-08 16:06:25,j7pxlkd,t1_j7okfhy,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7pxlkd/,6,Positive
+Master-of-Ceremony,"Man your positional play must be around the level 1200 because I’m 2000 and my puzzle rating is 2300…
+
+/s",2023-02-08 17:49:11,j7qdk9g,t1_j7on5lp,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qdk9g/,4,Neutral
+Apprehensive_Bad_818,"Hey I too play (1740) only on LiChess and I really love it that they are free compared to chess.com! An honest question, if you have played physical tournaments or somewhere else with rated friends, how tough or easy do you find in defeating them, understanding their purposes behind moves? Any insights is helpful",2023-02-08 16:28:48,j7q112d,t1_j7on5lp,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7q112d/,0,Positive
+Pawn_to_Queen_4,"++
+
+Same.",2023-02-08 17:30:34,j7qamrl,t1_j7q3s7a,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qamrl/,2,Neutral
+reagantrex,"Qe6 what?
+
+Edit: nvm I’m dumb and forgot the board is black’s perspective for a sec",2023-02-08 22:59:25,j7rqqbu,t1_j7q3s7a,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rqqbu/,2,Negative
+luigijerk,I saw it in 0.4 seconds,2023-02-08 22:15:15,j7rk0da,t1_j7ousgq,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rk0da/,1,Neutral
+Kosh_Ascadian,"There are 2 queen checks too. Which achieve nothing of course, just saying there are 2 more checks.",2023-02-08 18:59:19,j7qols4,t1_j7p7635,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qols4/,1,Positive
+SeverePhilosopher1,"Actually you should always consider a check no matter whether it is a puzzle or not. The other things puzzles train you at is show you a pattern that you will
+eventually  one day see in a gam like the smothered mate that we have post about 16 times a day. Chess is about patterns. It is basically a pattern recognition and memory game",2023-02-08 21:34:41,j7rdkgx,t1_j7rbz6f,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rdkgx/,51,Negative
+IngenuityCrazy1642,See I disagree with this a bit. Doing puzzles has objectively helped me gain a better intuition for when there is a tactic available such as knight forks. I used to lose games constantly to knight forks but when I started doing more puzzles I would recognize some of the tactics. My daily and long form games started getting better. I don’t think they are helpful with any time control under 10 minutes bc those games are as much about avoiding unnecessary material losses vs solid foundational chess. I could be totally wrong in that assessment though so please correct me if I am.,2023-02-09 11:00:37,j7tvlhy,t1_j7rbz6f,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7tvlhy/,2,Positive
+SeverePhilosopher1,"Actually you should always consider a check no matter whether it is a puzzle or not. The other thing puzzles train you at is show you a pattern that you will
+eventually  one day see in a game like the smothered mate that we have post about 16 times a day. Chess is about patterns. It is basically a pattern recognition and memory game",2023-02-08 21:35:05,j7rdmqz,t1_j7rbz6f,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rdmqz/,1,Negative
+lyrapan,It’s to train your pattern recognition so that you don’t miss mates like this one in-game,2023-02-09 03:01:22,j7soa1l,t1_j7rbz6f,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7soa1l/,1,Neutral
+audigex,"They train you to see the patterns, though, and you’ll therefore start to spot the patterns in real games
+
+My main problem is that they do a better job of helping me see patterns when I’m attacking vs when I’m being attacked, as they tend to place you as the attacking player and thus everything is flipped from when you’re being threatened by the same tactic",2023-02-09 19:17:32,j7vq0r2,t1_j7rbz6f,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7vq0r2/,1,Positive
+Jackal000,Than you are not doing them right IMO.  Use em for pattern recognition training,2023-03-04 12:42:01,javnhfn,t1_j7rbz6f,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/javnhfn/,1,Positive
+Holiday_Car_371,Easy?,2023-02-08 23:24:44,j7ruhdd,t1_j7q9wlc,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ruhdd/,0,Positive
+g_spaitz,"Lol, no I simply suck overall.",2023-02-08 18:01:07,j7qfgfp,t1_j7qdk9g,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qfgfp/,9,Positive
+tunoak13,"I am sitting at 2400 puzzle rating in chesscom and I love playing all type of puzzle games but I dont really enjoy studying chess opening and trying to improve at the game. My rapid is only 1k but I play bots at 1500-1700 level. When I play against real people, the only thing I can think about is setting up cool moves like in the puzzles and blundering.",2023-02-09 10:36:08,j7ttsj4,t1_j7qdk9g,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7ttsj4/,0,Positive
+AnnihilationOrchid,"Chess.com sucks in everything except for the fact that if you wanna play chess or variants you don't need to wait, and its aesthetics and customisable. Everything there to do with learning you've got to pay.  Even CT is better.",2023-02-08 18:43:56,j7qm58w,t1_j7q112d,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7qm58w/,0,Positive
+NotNitsua,"yeah i had to do a quick little scan when i was commenting, feels too much like d3",2023-02-08 23:18:40,j7rtkzd,t1_j7rqqbu,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rtkzd/,1,Positive
+chut_has_no_religion,0.3,2023-02-09 01:13:41,j7s9p4z,t1_j7rk0da,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7s9p4z/,1,Neutral
+FiveDozenWhales,"When I'm playing blitz I don't have time to consider every rook sac, because 99.5% of them lose the game and I have to stay busy calculating more-promising conventional lines :\",2023-02-08 21:41:03,j7rem1m,t1_j7rdkgx,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rem1m/,11,Negative
+Automatic-Listen-578,"A good friend of mine was fond of saying, “Always check. It might be mate.” LOL. Let’s assume he meant you should inspect the move to see if it’s viable and not just throw random checks for the fork of it.",2023-02-09 04:21:03,j7sya36,t1_j7rdkgx,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7sya36/,1,Positive
+twicemoneyswagg,"Not necessarily super easy to spot in a game, but when doing puzzles we are conditioned to check forcing moves first, because we know there is a tactic and that is the fastest way to spot one.
+
+This puzzle has only three moves to give a check, and once you look at saccing the rook the rest of the sequence is “easy” because it is all forcing moves",2023-02-09 12:39:55,j7u47mp,t1_j7ruhdd,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7u47mp/,3,Positive
+Master-of-Ceremony,"tbf I think (though I'm not sure) that chesscom puzzle ratings are really inflated. I sometimes here about 1500s solving 2700 rated puzzles, whereas on lichess it takes me about 10 minutes to guess my way through a 2500 rated puzzle. And then playing bots is just a different skillset from playing humans, and an easier one to develop, so I'd say that maybe your rating is about accurate tbh",2023-02-09 10:46:51,j7tukag,t1_j7ttsj4,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7tukag/,1,Positive
+Queasy-Grape-8822,"Everything conceivable is worse except variants and UX? So chesscom is better in every way except learning, is what you’re saying",2023-02-09 11:22:03,j7tx917,t1_j7qm58w,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7tx917/,1,Positive
+Apprehensive_Bad_818,I agree. It sucks. I am just looking for a realistic comparison between my lichess 1700 rating and a fide 1700 or chesscom 1700 rated player.,2023-02-09 13:02:18,j7u6kkp,t1_j7qm58w,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7u6kkp/,1,Negative
+kabekew,"When you do a lot of puzzles though, you develop an instinct for your real games where in certain situations you'll think *something* has to be there. Here, it's three pieces attacking the king but only one really defending, which is a common theme in middle game mates (more pieces attacking than defending). So there is almost certainly a win *somehow*. That's when you start looking at sacs, especially when it's a forced line.",2023-02-08 22:26:16,j7rlowm,t1_j7rem1m,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rlowm/,7,Positive
+SeverePhilosopher1,But i saw this in 2 secs that’s why you should play bullet. It trains you to calculate quickly,2023-02-08 21:47:56,j7rfpzz,t1_j7rem1m,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7rfpzz/,0,Positive
+SeverePhilosopher1,"Sometimes people check and even win a own and then there is no mate but they end up having their queen in a position where it can defend their king from being mated. Something  the other player might have seen. So yes always check but also check the whole sequence and after you finish the sequence and you think you won something also Check the next move your opponent can make. Because always remember if you capture something, the next move is not yours. Unless you capture the king check what the next move might be",2023-02-09 04:24:26,j7syo95,t1_j7sya36,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7syo95/,1,Positive
+Holiday_Car_371,I'm only 550,2023-02-09 12:42:23,j7u4gps,t1_j7u47mp,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7u4gps/,1,Neutral
+AnnihilationOrchid,"Whichever way you want to look at it. But to many people chess isn't just about playing. There about a thousand different ways you can enjoy chess. For example, I hate using [chess.com](https://chess.com) for any analysis.    
+
+
+Also, recently the site has been having so many servers, I don't know why I can't get a good connection, so I keep losing on time, playing blitz, premoves are taking about 0.5s, this didn't happen in the past, and I'm sure it's not an issue with my provider.",2023-02-09 15:45:26,j7us9ey,t1_j7tx917,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7us9ey/,1,Positive
+Holiday_Car_371,I don't think I had a chance,2023-02-09 12:42:37,j7u4hjf,t1_j7u4gps,/r/chess/comments/10wpqoc/lichess_1577_rated_puzzle_how_quickly_were_you/j7u4hjf/,1,Neutral
